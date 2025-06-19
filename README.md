@@ -7,4 +7,22 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##Installation Steps
+## Installation Steps
+
+**Step 1:** Clone the project
+
+**Step 2:** Copy .env.example to .env
+
+**Step 3:** Make a database and update the connection configuration into .env
+
+**Step 4:** run the "composer install" command
+
+**Step 5:** run the "npm install" command
+
+**Step 6:** run "php artisan migrate" for database table migration
+
+**Step 7:** run "php artisan db:seed" for user creation 
+
+**Step 8:** run "npm run dev" for running the project
+
+**Credential:** user@user.com/12345678
