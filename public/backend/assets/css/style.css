@@ -1,0 +1,17 @@
+
+.list-image{
+    width:50px;
+    border-radius: 5px;
+}
+
+em{
+    color: red;
+}
+
+.topic-badge{
+    border-radius: 50px;
+}
+
+.select2-container .select2-selection--single{
+    height: 43px !important;
+}

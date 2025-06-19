@@ -1,0 +1,38 @@
+.section.hero-started .title{
+    font-size: 70px;
+}
+.error{
+    color:#dc3545 !important;
+    padding-left: 25px;
+    font-weight: bold;
+}
+
+.page-item.active .page-link {
+    background-color: #29a587;
+    border-color: #1c715d;
+}
+.page-link:hover {
+    color: #29a587;
+}
+.page-link:focus {
+    box-shadow: 0 0 0 .25rem rgb(13 253 176 / 25%);
+}
+code.hljs {
+    padding: 5px 15px;
+}
+
+@media screen and (max-width: 767px) {
+    .section.hero-started .slide {
+        top: 740px;
+    }
+    .menu-full-overlay .menu-full-container {
+        margin-top: 0px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .blog-items .col-xs-12:last-child {
+        display: inline-block;
+    }
+}
+

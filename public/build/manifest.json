@@ -1,0 +1,114 @@
+{
+  "node_modules/owl.carousel/dist/assets/owl.video.play.png": {
+    "file": "assets/owl.video.play-04360456.png",
+    "src": "node_modules/owl.carousel/dist/assets/owl.video.play.png"
+  },
+  "public/fonts/font-awesome/webfonts/fa-brands-400.eot": {
+    "file": "assets/fa-brands-400-407a9723.eot",
+    "src": "public/fonts/font-awesome/webfonts/fa-brands-400.eot"
+  },
+  "public/fonts/font-awesome/webfonts/fa-brands-400.svg": {
+    "file": "assets/fa-brands-400-679b5a52.svg",
+    "src": "public/fonts/font-awesome/webfonts/fa-brands-400.svg"
+  },
+  "public/fonts/font-awesome/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-06f4d009.ttf",
+    "src": "public/fonts/font-awesome/webfonts/fa-brands-400.ttf"
+  },
+  "public/fonts/font-awesome/webfonts/fa-brands-400.woff": {
+    "file": "assets/fa-brands-400-aff76e5c.woff",
+    "src": "public/fonts/font-awesome/webfonts/fa-brands-400.woff"
+  },
+  "public/fonts/font-awesome/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-43c072c1.woff2",
+    "src": "public/fonts/font-awesome/webfonts/fa-brands-400.woff2"
+  },
+  "public/fonts/font-awesome/webfonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400-cf83ffb8.eot",
+    "src": "public/fonts/font-awesome/webfonts/fa-regular-400.eot"
+  },
+  "public/fonts/font-awesome/webfonts/fa-regular-400.svg": {
+    "file": "assets/fa-regular-400-2326849b.svg",
+    "src": "public/fonts/font-awesome/webfonts/fa-regular-400.svg"
+  },
+  "public/fonts/font-awesome/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-c651b8a6.ttf",
+    "src": "public/fonts/font-awesome/webfonts/fa-regular-400.ttf"
+  },
+  "public/fonts/font-awesome/webfonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400-14c9db4f.woff",
+    "src": "public/fonts/font-awesome/webfonts/fa-regular-400.woff"
+  },
+  "public/fonts/font-awesome/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-8afc6e5e.woff2",
+    "src": "public/fonts/font-awesome/webfonts/fa-regular-400.woff2"
+  },
+  "public/fonts/font-awesome/webfonts/fa-solid-900.eot": {
+    "file": "assets/fa-solid-900-75a76115.eot",
+    "src": "public/fonts/font-awesome/webfonts/fa-solid-900.eot"
+  },
+  "public/fonts/font-awesome/webfonts/fa-solid-900.svg": {
+    "file": "assets/fa-solid-900-fa498fb2.svg",
+    "src": "public/fonts/font-awesome/webfonts/fa-solid-900.svg"
+  },
+  "public/fonts/font-awesome/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-3d06af1f.ttf",
+    "src": "public/fonts/font-awesome/webfonts/fa-solid-900.ttf"
+  },
+  "public/fonts/font-awesome/webfonts/fa-solid-900.woff": {
+    "file": "assets/fa-solid-900-74edc18b.woff",
+    "src": "public/fonts/font-awesome/webfonts/fa-solid-900.woff"
+  },
+  "public/fonts/font-awesome/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-d0b4256a.woff2",
+    "src": "public/fonts/font-awesome/webfonts/fa-solid-900.woff2"
+  },
+  "public/images/angle.svg": {
+    "file": "assets/angle-6534e27e.svg",
+    "src": "public/images/angle.svg"
+  },
+  "public/images/arrow.svg": {
+    "file": "assets/arrow-f10308e9.svg",
+    "src": "public/images/arrow.svg"
+  },
+  "public/images/caret-down.svg": {
+    "file": "assets/caret-down-916d8d3b.svg",
+    "src": "public/images/caret-down.svg"
+  },
+  "public/images/circle.svg": {
+    "file": "assets/circle-1562ba92.svg",
+    "src": "public/images/circle.svg"
+  },
+  "public/images/pat-1.png": {
+    "file": "assets/pat-1-f115230c.png",
+    "src": "public/images/pat-1.png"
+  },
+  "public/images/quote.svg": {
+    "file": "assets/quote-4134ce74.svg",
+    "src": "public/images/quote.svg"
+  },
+  "public/images/search.svg": {
+    "file": "assets/search-6b5eeeae.svg",
+    "src": "public/images/search.svg"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-d74c145c.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/owl.video.play-04360456.png"
+    ],
+    "css": [
+      "assets/app-d74c145c.css"
+    ],
+    "file": "assets/app-4b141b99.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-72cd1a71.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
